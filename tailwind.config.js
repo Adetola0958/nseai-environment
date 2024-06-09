@@ -11,7 +11,7 @@ module.exports = {
         lexend: ['"Lexend Deca", sans-serif;', ...defaultTheme.fontFamily.sans]
       },
       colors: {
-        "deepgreen": '#082214',
+        "deepgreen": '#082214'
       }
     },
   },
