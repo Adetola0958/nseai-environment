@@ -12,9 +12,7 @@ const Navbar = () => {
       <div className='max-w-[1240px] mx-auto px-4 h-20 flex justify-between'>
         <h1 className='p-5 text-3xl font-bold text-[#1BB661]'>NSEAI</h1>
         <ul className='hidden md:flex ml-auto'>
-           <li className='p-5 mr-5'>
-            <a href='#'>Home</a>
-          </li> 
+          <li className='p-5 mr-5 font-lexend'>Home</li> 
           <li className='p-5 mr-5 font-lexend'>About Us</li>
           <li className='p-5 mr-5 font-lexend'>Projects</li>
           <li className='p-5 mr-5 font-lexend'>Our Team</li>
